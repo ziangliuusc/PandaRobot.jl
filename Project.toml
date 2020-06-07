@@ -1,0 +1,9 @@
+name = "PandaRobot"
+uuid = "33074842-0f60-47e8-be8e-d14b521f557f"
+authors = []
+version = "0.1.0"
+
+[deps]
+RigidBodyDynamics = "366cf18f-59d5-5db9-a4de-86a9f6786172"
+MathOptInterface = "b8f27783-ece8-5eb3-8dc8-9495eed66fee"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
